@@ -256,7 +256,12 @@ export default {
           icon: sWeiBo,
           url: "http://weibo.com/rainlvsky"
         }
-      ]
+      ],
+	  links: [{
+		title: '● 个人博客',
+		des: 'https://joeaaron.github.io/',
+		url: 'https://joeaaron.github.io/'
+      }]
     }
   },
   en: {
@@ -499,7 +504,12 @@ export default {
           icon: sWeiBo,
           url: "http://weibo.com/rainlvsky"
         }
-      ]
+      ],
+	  links: [{
+		title: '● My Blog',
+		des: 'https://joeaaron.github.io/',
+		url: 'https://joeaaron.github.io/'
+      }]
     }
   }
 };
